@@ -3,4 +3,5 @@ const buah = {
     warna: "Merah",
     jumlah: 20,
     hargaSatuan: 10000,
+    biji:true
 }
